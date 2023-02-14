@@ -4,7 +4,7 @@ Ridiculously simple and effective JSON formatter.
 
 ## Installation
 
-TODO
+Run `nimble install jsonfmt`.
 
 ## Usage
 
