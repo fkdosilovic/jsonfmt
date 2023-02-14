@@ -29,11 +29,10 @@ jsonfmt /path/to/json/file/db.json /path/to/json/file/db_formatted.json --indent
 
 ## Motivation
 
-**Why another JSON formatter?** &nbsp; &nbsp; &nbsp; &nbsp; Unfortunately, VS
+**Why another JSON formatter?** Unfortunately, VS
 Code's JSON formatter does not handle JSON files larger than 50 MB. And, as
 you probably know, sometimes you need to pretty format/print larger JSON files.
 This tool can format JSON files up to 1 GB in size (tested), probably more,
 depending on how much RAM you have available.
 
-**Why Nim?** &nbsp; &nbsp; &nbsp; &nbsp; I wanted to try and experiment with
-the language.
+**Why Nim?** I wanted to try and experiment with the language.
